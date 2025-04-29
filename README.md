@@ -5,4 +5,4 @@ NRP            : 5025211121
 
 Kelas          : PPB G
 
-Tahun Ajaran   : 2025/2026 (Genap)
+Tahun Ajaran   : 2024/2025 (Genap)
